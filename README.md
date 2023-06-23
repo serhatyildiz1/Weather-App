@@ -15,5 +15,5 @@ Weather App (Hava Durumu Uygulaması) is a full-stack web application where user
 - Users can save the city
 
 # Run it locally
-- Run npm run dev in the terminal with the project.
-- Then go to localhost:3000.
+1. Run npm run dev in the terminal with the project.
+2. Then go to localhost:3000.
